@@ -1,0 +1,7 @@
+C:\Users\ebubekir.kanbur\Desktop\ebubekir_kanbur_20220108080_c#_vize_ödev\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\ebubekir.kanbur\Desktop\ebubekir_kanbur_20220108080_c#_vize_ödev\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\ebubekir.kanbur\Desktop\ebubekir_kanbur_20220108080_c#_vize_ödev\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\ebubekir.kanbur\Desktop\ebubekir_kanbur_20220108080_c#_vize_ödev\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ebubekir.kanbur\Desktop\ebubekir_kanbur_20220108080_c#_vize_ödev\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ebubekir.kanbur\Desktop\ebubekir_kanbur_20220108080_c#_vize_ödev\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\ebubekir.kanbur\Desktop\ebubekir_kanbur_20220108080_c#_vize_ödev\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
